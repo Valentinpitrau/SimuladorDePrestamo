@@ -1,0 +1,8 @@
+[{ 
+    "nombreUsuario":"valentin",
+    "password":12345
+},
+{
+    "nombreUsuario":"manuel", 
+    "password": 22222
+}]
